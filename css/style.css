@@ -1,0 +1,14 @@
+h1{ 
+	font-family: 'Roboto', sans-serif !important;
+	font-weight: lighter;
+	font-size: 30px;
+	color: #2b2d42;
+	margin: 20px 0;
+	text-transform: uppercase;}
+
+.city{
+	border: solid 1px #ccc;
+	padding: 5px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 18px;
+	color: #2b2d42;}
